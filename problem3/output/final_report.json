@@ -1,0 +1,934 @@
+{
+  "processing_timestamp": "2025-09-15T23:42:39.717068+00:00",
+  "documents_processed": 3,
+  "total_words": 1037,
+  "unique_words": 733,
+  "top_100_words": [
+    {
+      "word": "s",
+      "count": 17,
+      "frequency": 0.016393
+    },
+    {
+      "word": "his",
+      "count": 14,
+      "frequency": 0.0135
+    },
+    {
+      "word": "free",
+      "count": 13,
+      "frequency": 0.012536
+    },
+    {
+      "word": "l",
+      "count": 10,
+      "frequency": 0.009643
+    },
+    {
+      "word": "articles",
+      "count": 8,
+      "frequency": 0.007715
+    },
+    {
+      "word": "n",
+      "count": 8,
+      "frequency": 0.007715
+    },
+    {
+      "word": "had",
+      "count": 8,
+      "frequency": 0.007715
+    },
+    {
+      "word": "wikipedia",
+      "count": 7,
+      "frequency": 0.00675
+    },
+    {
+      "word": "e",
+      "count": 7,
+      "frequency": 0.00675
+    },
+    {
+      "word": "ng",
+      "count": 7,
+      "frequency": 0.00675
+    },
+    {
+      "word": "bahasa",
+      "count": 6,
+      "frequency": 0.005786
+    },
+    {
+      "word": "old",
+      "count": 6,
+      "frequency": 0.005786
+    },
+    {
+      "word": "blacksmith",
+      "count": 6,
+      "frequency": 0.005786
+    },
+    {
+      "word": "he",
+      "count": 6,
+      "frequency": 0.005786
+    },
+    {
+      "word": "english",
+      "count": 5,
+      "frequency": 0.004822
+    },
+    {
+      "word": "t",
+      "count": 5,
+      "frequency": 0.004822
+    },
+    {
+      "word": "but",
+      "count": 5,
+      "frequency": 0.004822
+    },
+    {
+      "word": "domain",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "m",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "g",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "u",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "sloven",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "ina",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "your",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "basa",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "k",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "now",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "not",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "no",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "so",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "came",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "one",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "her",
+      "count": 4,
+      "frequency": 0.003857
+    },
+    {
+      "word": "use",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "deutsch",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "fran",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "ais",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "espa",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "ol",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "italiano",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "polski",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "portugu",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "b",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "norsk",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "i",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "them",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "their",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "all",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "every",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "man",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "hammer",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "him",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "most",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "young",
+      "count": 3,
+      "frequency": 0.002893
+    },
+    {
+      "word": "example",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "you",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "coordination",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "search",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "afrikaans",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "shqip",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "asturianu",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "az",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "rbaycanca",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "catal",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "tina",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "cymraeg",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "dansk",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "eesti",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "esperanto",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "euskara",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "galego",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "hrvatski",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "indonesia",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "ladin",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "latina",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "latvie",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "lietuvi",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "magyar",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "malagasy",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "melayu",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "bahaso",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "minangkabau",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "nederlands",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "bokm",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "nynorsk",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "o",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "zbekcha",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "qazaq",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "rom",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "simple",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "sinugboanong",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "binisaya",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "srpski",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "srpskohrvatski",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "suomi",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "svenska",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "kiswahili",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "tatar",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "rk",
+      "count": 2,
+      "frequency": 0.001929
+    },
+    {
+      "word": "ti",
+      "count": 2,
+      "frequency": 0.001929
+    }
+  ],
+  "document_similarity": [
+    {
+      "doc1": "page_1.json",
+      "doc2": "page_2.json",
+      "similarity": 0.007212
+    },
+    {
+      "doc1": "page_1.json",
+      "doc2": "page_3.json",
+      "similarity": 0.0
+    },
+    {
+      "doc1": "page_2.json",
+      "doc2": "page_3.json",
+      "similarity": 0.005556
+    }
+  ],
+  "top_bigrams": [
+    {
+      "bigram": "sloven ina",
+      "count": 4
+    },
+    {
+      "bigram": "fran ais",
+      "count": 3
+    },
+    {
+      "bigram": "espa ol",
+      "count": 3
+    },
+    {
+      "bigram": "portugu s",
+      "count": 3
+    },
+    {
+      "bigram": "old man",
+      "count": 3
+    },
+    {
+      "bigram": "example domain",
+      "count": 2
+    },
+    {
+      "bigram": "articles deutsch",
+      "count": 2
+    },
+    {
+      "bigram": "afrikaans shqip",
+      "count": 2
+    },
+    {
+      "bigram": "shqip asturianu",
+      "count": 2
+    },
+    {
+      "bigram": "asturianu az",
+      "count": 2
+    },
+    {
+      "bigram": "az rbaycanca",
+      "count": 2
+    },
+    {
+      "bigram": "rbaycanca b",
+      "count": 2
+    },
+    {
+      "bigram": "b n",
+      "count": 2
+    },
+    {
+      "bigram": "n l",
+      "count": 2
+    },
+    {
+      "bigram": "l m",
+      "count": 2
+    },
+    {
+      "bigram": "m g",
+      "count": 2
+    },
+    {
+      "bigram": "g catal",
+      "count": 2
+    },
+    {
+      "bigram": "catal e",
+      "count": 2
+    },
+    {
+      "bigram": "e tina",
+      "count": 2
+    },
+    {
+      "bigram": "tina cymraeg",
+      "count": 2
+    },
+    {
+      "bigram": "cymraeg dansk",
+      "count": 2
+    },
+    {
+      "bigram": "english espa",
+      "count": 2
+    },
+    {
+      "bigram": "esperanto euskara",
+      "count": 2
+    },
+    {
+      "bigram": "galego hrvatski",
+      "count": 2
+    },
+    {
+      "bigram": "hrvatski bahasa",
+      "count": 2
+    },
+    {
+      "bigram": "bahasa indonesia",
+      "count": 2
+    },
+    {
+      "bigram": "ladin latina",
+      "count": 2
+    },
+    {
+      "bigram": "latina latvie",
+      "count": 2
+    },
+    {
+      "bigram": "latvie u",
+      "count": 2
+    },
+    {
+      "bigram": "u lietuvi",
+      "count": 2
+    },
+    {
+      "bigram": "lietuvi magyar",
+      "count": 2
+    },
+    {
+      "bigram": "magyar malagasy",
+      "count": 2
+    },
+    {
+      "bigram": "malagasy bahasa",
+      "count": 2
+    },
+    {
+      "bigram": "bahasa melayu",
+      "count": 2
+    },
+    {
+      "bigram": "melayu bahaso",
+      "count": 2
+    },
+    {
+      "bigram": "bahaso minangkabau",
+      "count": 2
+    },
+    {
+      "bigram": "norsk bokm",
+      "count": 2
+    },
+    {
+      "bigram": "bokm l",
+      "count": 2
+    },
+    {
+      "bigram": "nynorsk o",
+      "count": 2
+    },
+    {
+      "bigram": "o zbekcha",
+      "count": 2
+    },
+    {
+      "bigram": "polski portugu",
+      "count": 2
+    },
+    {
+      "bigram": "qazaq rom",
+      "count": 2
+    },
+    {
+      "bigram": "rom n",
+      "count": 2
+    },
+    {
+      "bigram": "n simple",
+      "count": 2
+    },
+    {
+      "bigram": "simple english",
+      "count": 2
+    },
+    {
+      "bigram": "sinugboanong binisaya",
+      "count": 2
+    },
+    {
+      "bigram": "ina sloven",
+      "count": 2
+    },
+    {
+      "bigram": "ina srpski",
+      "count": 2
+    },
+    {
+      "bigram": "srpski srpskohrvatski",
+      "count": 2
+    },
+    {
+      "bigram": "srpskohrvatski suomi",
+      "count": 2
+    }
+  ],
+  "top_trigrams": [
+    {
+      "trigram": "afrikaans shqip asturianu",
+      "count": 2
+    },
+    {
+      "trigram": "shqip asturianu az",
+      "count": 2
+    },
+    {
+      "trigram": "asturianu az rbaycanca",
+      "count": 2
+    },
+    {
+      "trigram": "az rbaycanca b",
+      "count": 2
+    },
+    {
+      "trigram": "rbaycanca b n",
+      "count": 2
+    },
+    {
+      "trigram": "b n l",
+      "count": 2
+    },
+    {
+      "trigram": "n l m",
+      "count": 2
+    },
+    {
+      "trigram": "l m g",
+      "count": 2
+    },
+    {
+      "trigram": "m g catal",
+      "count": 2
+    },
+    {
+      "trigram": "g catal e",
+      "count": 2
+    },
+    {
+      "trigram": "catal e tina",
+      "count": 2
+    },
+    {
+      "trigram": "e tina cymraeg",
+      "count": 2
+    },
+    {
+      "trigram": "tina cymraeg dansk",
+      "count": 2
+    },
+    {
+      "trigram": "english espa ol",
+      "count": 2
+    },
+    {
+      "trigram": "galego hrvatski bahasa",
+      "count": 2
+    },
+    {
+      "trigram": "hrvatski bahasa indonesia",
+      "count": 2
+    },
+    {
+      "trigram": "ladin latina latvie",
+      "count": 2
+    },
+    {
+      "trigram": "latina latvie u",
+      "count": 2
+    },
+    {
+      "trigram": "latvie u lietuvi",
+      "count": 2
+    },
+    {
+      "trigram": "u lietuvi magyar",
+      "count": 2
+    },
+    {
+      "trigram": "lietuvi magyar malagasy",
+      "count": 2
+    },
+    {
+      "trigram": "magyar malagasy bahasa",
+      "count": 2
+    },
+    {
+      "trigram": "malagasy bahasa melayu",
+      "count": 2
+    },
+    {
+      "trigram": "bahasa melayu bahaso",
+      "count": 2
+    },
+    {
+      "trigram": "melayu bahaso minangkabau",
+      "count": 2
+    },
+    {
+      "trigram": "norsk bokm l",
+      "count": 2
+    },
+    {
+      "trigram": "nynorsk o zbekcha",
+      "count": 2
+    },
+    {
+      "trigram": "polski portugu s",
+      "count": 2
+    },
+    {
+      "trigram": "qazaq rom n",
+      "count": 2
+    },
+    {
+      "trigram": "rom n simple",
+      "count": 2
+    },
+    {
+      "trigram": "n simple english",
+      "count": 2
+    },
+    {
+      "trigram": "sloven ina sloven",
+      "count": 2
+    },
+    {
+      "trigram": "ina sloven ina",
+      "count": 2
+    },
+    {
+      "trigram": "sloven ina srpski",
+      "count": 2
+    },
+    {
+      "trigram": "ina srpski srpskohrvatski",
+      "count": 2
+    },
+    {
+      "trigram": "srpski srpskohrvatski suomi",
+      "count": 2
+    },
+    {
+      "trigram": "kiswahili tatar t",
+      "count": 2
+    },
+    {
+      "trigram": "tatar t rk",
+      "count": 2
+    },
+    {
+      "trigram": "t rk e",
+      "count": 2
+    },
+    {
+      "trigram": "ti ng vi",
+      "count": 2
+    },
+    {
+      "trigram": "ng vi t",
+      "count": 2
+    },
+    {
+      "trigram": "vi t winaray",
+      "count": 2
+    },
+    {
+      "trigram": "heavy beating his",
+      "count": 2
+    },
+    {
+      "trigram": "example domain example",
+      "count": 1
+    },
+    {
+      "trigram": "domain example domain",
+      "count": 1
+    },
+    {
+      "trigram": "example domain domain",
+      "count": 1
+    },
+    {
+      "trigram": "domain domain use",
+      "count": 1
+    },
+    {
+      "trigram": "domain use illustrative",
+      "count": 1
+    },
+    {
+      "trigram": "use illustrative examples",
+      "count": 1
+    },
+    {
+      "trigram": "illustrative examples documents",
+      "count": 1
+    }
+  ],
+  "readability": {
+    "avg_sentence_length": 28.027,
+    "avg_word_length": 5.5342,
+    "complexity_score": 0.7068
+  }
+}
