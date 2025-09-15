@@ -1,0 +1,74 @@
+[
+  {
+    "url": "http://httpbin.org/status/200",
+    "status_code": 200,
+    "response_time_ms": 1028.280584000001,
+    "content_length": 0,
+    "word_count": 0,
+    "timestamp": "2025-09-15T22:09:39.949336Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/delay/2",
+    "status_code": 200,
+    "response_time_ms": 2251.719958999999,
+    "content_length": 326,
+    "word_count": null,
+    "timestamp": "2025-09-15T22:09:40.977696Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/status/404",
+    "status_code": null,
+    "response_time_ms": 169.76212499999122,
+    "content_length": 0,
+    "word_count": null,
+    "timestamp": "2025-09-15T22:09:43.229957Z",
+    "error": "HTTP Error 404: NOT FOUND"
+  },
+  {
+    "url": "http://httpbin.org/json",
+    "status_code": 200,
+    "response_time_ms": 163.285333999994,
+    "content_length": 429,
+    "word_count": null,
+    "timestamp": "2025-09-15T22:09:43.399958Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/html",
+    "status_code": 200,
+    "response_time_ms": 245.62945799999625,
+    "content_length": 3741,
+    "word_count": 638,
+    "timestamp": "2025-09-15T22:09:43.563334Z",
+    "error": null
+  },
+  {
+    "url": "https://www.example.com",
+    "status_code": 200,
+    "response_time_ms": 65.19233299999883,
+    "content_length": 1256,
+    "word_count": 158,
+    "timestamp": "2025-09-15T22:09:43.809621Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/status/500",
+    "status_code": null,
+    "response_time_ms": 379.2344170000064,
+    "content_length": 0,
+    "word_count": null,
+    "timestamp": "2025-09-15T22:09:43.875139Z",
+    "error": "HTTP Error 500: INTERNAL SERVER ERROR"
+  },
+  {
+    "url": "http://invalid.url.that.does.not.exist.com",
+    "status_code": null,
+    "response_time_ms": 220.78029099999696,
+    "content_length": 0,
+    "word_count": null,
+    "timestamp": "2025-09-15T22:09:44.254686Z",
+    "error": "<urlopen error [Errno -2] Name or service not known>"
+  }
+]
