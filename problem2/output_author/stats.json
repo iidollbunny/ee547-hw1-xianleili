@@ -1,0 +1,332 @@
+{
+  "query": "au:LeCun",
+  "generated_at_utc": "2025-09-15T22:42:22Z",
+  "total_papers": 3,
+  "papers": [
+    {
+      "arxiv_id": "1006.0448v1",
+      "word_frequency": {
+        "total_word_count": 191,
+        "unique_word_count": 113,
+        "top_20_terms": [
+          [
+            "the",
+            13
+          ],
+          [
+            "to",
+            11
+          ],
+          [
+            "of",
+            10
+          ],
+          [
+            "a",
+            6
+          ],
+          [
+            "and",
+            5
+          ],
+          [
+            "over",
+            4
+          ],
+          [
+            "units",
+            4
+          ],
+          [
+            "an",
+            3
+          ],
+          [
+            "cells",
+            3
+          ],
+          [
+            "complex",
+            3
+          ],
+          [
+            "feature",
+            3
+          ],
+          [
+            "features",
+            3
+          ],
+          [
+            "from",
+            3
+          ],
+          [
+            "architecture",
+            2
+          ],
+          [
+            "be",
+            2
+          ],
+          [
+            "consecutive",
+            2
+          ],
+          [
+            "constrained",
+            2
+          ],
+          [
+            "encoder",
+            2
+          ],
+          [
+            "frames",
+            2
+          ],
+          [
+            "image",
+            2
+          ]
+        ],
+        "avg_word_length": 5.55
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 7,
+        "avg_words_per_sentence": 27.286,
+        "longest_sentence_words": 50,
+        "shortest_sentence_words": 12
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "A",
+          "An",
+          "The",
+          "V1",
+          "We"
+        ],
+        "numeric_terms": [
+          "V1"
+        ],
+        "hyphenated_terms": [
+          "feed-forward",
+          "orientation-selective"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "1105.5307v1",
+      "word_frequency": {
+        "total_word_count": 71,
+        "unique_word_count": 54,
+        "top_20_terms": [
+          [
+            "a",
+            4
+          ],
+          [
+            "of",
+            4
+          ],
+          [
+            "and",
+            3
+          ],
+          [
+            "the",
+            3
+          ],
+          [
+            "to",
+            3
+          ],
+          [
+            "algorithm",
+            2
+          ],
+          [
+            "fast",
+            2
+          ],
+          [
+            "give",
+            2
+          ],
+          [
+            "range",
+            2
+          ],
+          [
+            "we",
+            2
+          ],
+          [
+            "are",
+            1
+          ],
+          [
+            "but",
+            1
+          ],
+          [
+            "cells",
+            1
+          ],
+          [
+            "certain",
+            1
+          ],
+          [
+            "complex",
+            1
+          ],
+          [
+            "conditions",
+            1
+          ],
+          [
+            "convergence",
+            1
+          ],
+          [
+            "cortex",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "efficient",
+            1
+          ]
+        ],
+        "avg_word_length": 5.507
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 3,
+        "avg_words_per_sentence": 23.667,
+        "longest_sentence_words": 36,
+        "shortest_sentence_words": 17
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "We",
+          "When"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": []
+      }
+    },
+    {
+      "arxiv_id": "1108.1169v1",
+      "word_frequency": {
+        "total_word_count": 104,
+        "unique_word_count": 65,
+        "top_20_terms": [
+          [
+            "the",
+            7
+          ],
+          [
+            "a",
+            5
+          ],
+          [
+            "algorithm",
+            4
+          ],
+          [
+            "and",
+            4
+          ],
+          [
+            "of",
+            4
+          ],
+          [
+            "be",
+            3
+          ],
+          [
+            "can",
+            3
+          ],
+          [
+            "compression",
+            3
+          ],
+          [
+            "to",
+            3
+          ],
+          [
+            "an",
+            2
+          ],
+          [
+            "from",
+            2
+          ],
+          [
+            "has",
+            2
+          ],
+          [
+            "learns",
+            2
+          ],
+          [
+            "model",
+            2
+          ],
+          [
+            "pixels",
+            2
+          ],
+          [
+            "similar",
+            2
+          ],
+          [
+            "that",
+            2
+          ],
+          [
+            "those",
+            2
+          ],
+          [
+            "through",
+            2
+          ],
+          [
+            "under",
+            2
+          ]
+        ],
+        "avg_word_length": 5.471
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 6,
+        "avg_words_per_sentence": 17.333,
+        "longest_sentence_words": 22,
+        "shortest_sentence_words": 12
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Independent",
+          "The",
+          "We",
+          "When"
+        ],
+        "numeric_terms": [
+          "1",
+          "2"
+        ],
+        "hyphenated_terms": []
+      }
+    }
+  ]
+}

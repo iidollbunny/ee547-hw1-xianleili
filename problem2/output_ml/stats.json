@@ -1,0 +1,571 @@
+{
+  "query": "cat:cs.LG",
+  "generated_at_utc": "2025-09-15T22:42:22Z",
+  "total_papers": 5,
+  "papers": [
+    {
+      "arxiv_id": "9905014v1",
+      "word_frequency": {
+        "total_word_count": 222,
+        "unique_word_count": 110,
+        "top_20_terms": [
+          [
+            "the",
+            21
+          ],
+          [
+            "of",
+            13
+          ],
+          [
+            "a",
+            9
+          ],
+          [
+            "and",
+            7
+          ],
+          [
+            "maxq",
+            7
+          ],
+          [
+            "paper",
+            6
+          ],
+          [
+            "policy",
+            6
+          ],
+          [
+            "to",
+            6
+          ],
+          [
+            "an",
+            4
+          ],
+          [
+            "hierarchical",
+            4
+          ],
+          [
+            "learning",
+            4
+          ],
+          [
+            "q",
+            4
+          ],
+          [
+            "in",
+            3
+          ],
+          [
+            "it",
+            3
+          ],
+          [
+            "optimal",
+            3
+          ],
+          [
+            "state",
+            3
+          ],
+          [
+            "that",
+            3
+          ],
+          [
+            "value",
+            3
+          ],
+          [
+            "abstractions",
+            2
+          ],
+          [
+            "converges",
+            2
+          ]
+        ],
+        "avg_word_length": 5.387
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 7,
+        "avg_words_per_sentence": 31.714,
+        "longest_sentence_words": 46,
+        "shortest_sentence_words": 11
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Finally",
+          "MAXQ",
+          "MAXQ-Q",
+          "MDP",
+          "MDPs",
+          "Markov",
+          "Q",
+          "The",
+          "This"
+        ],
+        "numeric_terms": [
+          "1"
+        ],
+        "hyphenated_terms": [
+          "MAXQ-Q",
+          "locally-optimal",
+          "model-free",
+          "non-hierarchical"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "9905015v1",
+      "word_frequency": {
+        "total_word_count": 104,
+        "unique_word_count": 65,
+        "top_20_terms": [
+          [
+            "the",
+            5
+          ],
+          [
+            "in",
+            4
+          ],
+          [
+            "learning",
+            4
+          ],
+          [
+            "maxq",
+            4
+          ],
+          [
+            "state",
+            4
+          ],
+          [
+            "for",
+            3
+          ],
+          [
+            "that",
+            3
+          ],
+          [
+            "we",
+            3
+          ],
+          [
+            "which",
+            3
+          ],
+          [
+            "with",
+            3
+          ],
+          [
+            "abstraction",
+            2
+          ],
+          [
+            "abstractions",
+            2
+          ],
+          [
+            "actions",
+            2
+          ],
+          [
+            "are",
+            2
+          ],
+          [
+            "can",
+            2
+          ],
+          [
+            "conditions",
+            2
+          ],
+          [
+            "hierarchical",
+            2
+          ],
+          [
+            "is",
+            2
+          ],
+          [
+            "many",
+            2
+          ],
+          [
+            "of",
+            2
+          ]
+        ],
+        "avg_word_length": 5.721
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 5,
+        "avg_words_per_sentence": 20.8,
+        "longest_sentence_words": 28,
+        "shortest_sentence_words": 11
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "However",
+          "In",
+          "MAXQ",
+          "MAXQ-Q",
+          "Many",
+          "RL",
+          "We"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": [
+          "MAXQ-Q"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "0001004v1",
+      "word_frequency": {
+        "total_word_count": 103,
+        "unique_word_count": 72,
+        "top_20_terms": [
+          [
+            "the",
+            14
+          ],
+          [
+            "is",
+            7
+          ],
+          [
+            "to",
+            4
+          ],
+          [
+            "a",
+            3
+          ],
+          [
+            "by",
+            3
+          ],
+          [
+            "method",
+            3
+          ],
+          [
+            "constructed",
+            2
+          ],
+          [
+            "newton",
+            2
+          ],
+          [
+            "orthogonal",
+            2
+          ],
+          [
+            "al",
+            1
+          ],
+          [
+            "algorithm",
+            1
+          ],
+          [
+            "amount",
+            1
+          ],
+          [
+            "an",
+            1
+          ],
+          [
+            "analysis",
+            1
+          ],
+          [
+            "applied",
+            1
+          ],
+          [
+            "author",
+            1
+          ],
+          [
+            "be",
+            1
+          ],
+          [
+            "can",
+            1
+          ],
+          [
+            "complicated",
+            1
+          ],
+          [
+            "component",
+            1
+          ]
+        ],
+        "avg_word_length": 5.748
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 8,
+        "avg_words_per_sentence": 12.875,
+        "longest_sentence_words": 23,
+        "shortest_sentence_words": 7
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "A",
+          "Its",
+          "Levenberg-Marquardt-type",
+          "Newton",
+          "Newton-like",
+          "The",
+          "This",
+          "Though"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": [
+          "Levenberg-Marquardt-type",
+          "Newton-like",
+          "second-order-convergent"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "0002006v1",
+      "word_frequency": {
+        "total_word_count": 108,
+        "unique_word_count": 76,
+        "top_20_terms": [
+          [
+            "the",
+            12
+          ],
+          [
+            "is",
+            4
+          ],
+          [
+            "for",
+            3
+          ],
+          [
+            "in",
+            3
+          ],
+          [
+            "of",
+            3
+          ],
+          [
+            "a",
+            2
+          ],
+          [
+            "by",
+            2
+          ],
+          [
+            "can",
+            2
+          ],
+          [
+            "coset",
+            2
+          ],
+          [
+            "cost",
+            2
+          ],
+          [
+            "dynamics",
+            2
+          ],
+          [
+            "from",
+            2
+          ],
+          [
+            "function",
+            2
+          ],
+          [
+            "order",
+            2
+          ],
+          [
+            "scaling",
+            2
+          ],
+          [
+            "we",
+            2
+          ],
+          [
+            "which",
+            2
+          ],
+          [
+            "algorithms",
+            1
+          ],
+          [
+            "and",
+            1
+          ],
+          [
+            "any",
+            1
+          ]
+        ],
+        "avg_word_length": 5.13
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 7,
+        "avg_words_per_sentence": 15.429,
+        "longest_sentence_words": 27,
+        "shortest_sentence_words": 5
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "As",
+          "By",
+          "For",
+          "In",
+          "Lie",
+          "The",
+          "Thus",
+          "We"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": []
+      }
+    },
+    {
+      "arxiv_id": "0009001v3",
+      "word_frequency": {
+        "total_word_count": 154,
+        "unique_word_count": 96,
+        "top_20_terms": [
+          [
+            "the",
+            7
+          ],
+          [
+            "a",
+            6
+          ],
+          [
+            "of",
+            6
+          ],
+          [
+            "complexity",
+            5
+          ],
+          [
+            "is",
+            5
+          ],
+          [
+            "class",
+            3
+          ],
+          [
+            "computers",
+            3
+          ],
+          [
+            "in",
+            3
+          ],
+          [
+            "kolmogorov",
+            3
+          ],
+          [
+            "reference",
+            3
+          ],
+          [
+            "such",
+            3
+          ],
+          [
+            "to",
+            3
+          ],
+          [
+            "we",
+            3
+          ],
+          [
+            "an",
+            2
+          ],
+          [
+            "approach",
+            2
+          ],
+          [
+            "available",
+            2
+          ],
+          [
+            "be",
+            2
+          ],
+          [
+            "binary",
+            2
+          ],
+          [
+            "calculus",
+            2
+          ],
+          [
+            "can",
+            2
+          ]
+        ],
+        "avg_word_length": 5.377
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 7,
+        "avg_words_per_sentence": 22.0,
+        "longest_sentence_words": 35,
+        "shortest_sentence_words": 6
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Algorithmic",
+          "Given",
+          "In",
+          "Keywords",
+          "Kolmogorov",
+          "The",
+          "We"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": [
+          "real-life"
+        ]
+      }
+    }
+  ]
+}

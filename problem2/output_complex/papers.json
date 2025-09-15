@@ -1,0 +1,74 @@
+[
+  {
+    "arxiv_id": "2307.01189v2",
+    "title": "Trainable Transformer in Transformer",
+    "authors": [
+      "Abhishek Panigrahi",
+      "Sadhika Malladi",
+      "Mengzhou Xia",
+      "Sanjeev Arora"
+    ],
+    "abstract": "Recent works attribute the capability of in-context learning (ICL) in large\npre-trained language models to implicitly simulating and fine-tuning an\ninternal model (e.g., linear or 2-layer MLP) during inference. However, such\nconstructions require large memory overhead, which makes simulation of more\nsophisticated internal models intractable. In this work, we propose an\nefficient construction, Transformer in Transformer (in short, TinT), that\nallows a transformer to simulate and fine-tune complex models internally during\ninference (e.g., pre-trained language models). In particular, we introduce\ninnovative approximation techniques that allow a TinT model with less than 2\nbillion parameters to simulate and fine-tune a 125 million parameter\ntransformer model within a single forward pass. TinT accommodates many common\ntransformer variants and its design ideas also improve the efficiency of past\ninstantiations of simple models inside transformers. We conduct end-to-end\nexperiments to validate the internal fine-tuning procedure of TinT on various\nlanguage modeling and downstream tasks. For example, even with a limited\none-step budget, we observe TinT for a OPT-125M model improves performance by\n4-16% absolute on average compared to OPT-125M. These findings suggest that\nlarge pre-trained language models are capable of performing intricate\nsubroutines. To facilitate further work, a modular and extensible codebase for\nTinT is included.",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "published": "2023-07-03T17:53:39Z",
+    "updated": "2024-02-08T16:19:14Z"
+  },
+  {
+    "arxiv_id": "2404.12362v1",
+    "title": "Transformer tricks: Removing weights for skipless transformers",
+    "authors": [
+      "Nils Graef"
+    ],
+    "abstract": "He and Hofmann (arXiv:2311.01906) detailed a skipless transformer without the\nV and P (post-attention projection) linear layers, which reduces the total\nnumber of weights. However, this scheme is only applicable to MHA (multi-head\nattention), but not for MQA (multi-query attention) and GQA (grouped-query\nattention). The latter schemes are used by many popular LLMs such as Llama 2,\nMistral, Mixtral, PaLM, and Gemma. Therefore, this micro-paper proposes\nmathematically equivalent versions that are suitable for MQA and GQA. For\nexample, removing Q and P from a skipless version of Mistral-7B would remove\n15% of its weights (and thus reduce its compute and memory complexity). See\narXiv:2402.13388 and https://github.com/OpenMachine-ai/transformer-tricks for\ncode and more transformer tricks.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2024-04-18T17:45:19Z",
+    "updated": "2024-04-18T17:45:19Z"
+  },
+  {
+    "arxiv_id": "2010.14816v1",
+    "title": "Higher Order Linear Transformer",
+    "authors": [
+      "Jean Mercat"
+    ],
+    "abstract": "Following up on the linear transformer part of the article from Katharopoulos\net al., that takes this idea from Shen et al., the trick that produces a linear\ncomplexity for the attention mechanism is re-used and extended to a\nsecond-order approximation of the softmax normalization.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2020-10-28T08:48:23Z",
+    "updated": "2020-10-28T08:48:23Z"
+  },
+  {
+    "arxiv_id": "2105.08526v2",
+    "title": "Transformers à Grande Vitesse",
+    "authors": [
+      "Farid Arthaud",
+      "Guillaume Lecoeur",
+      "Alban Pierre"
+    ],
+    "abstract": "Robust travel time predictions are of prime importance in managing any\ntransportation infrastructure, and particularly in rail networks where they\nhave major impacts both on traffic regulation and passenger satisfaction. We\naim at predicting the travel time of trains on rail sections at the scale of an\nentire rail network in real-time, by estimating trains' delays relative to a\ntheoretical circulation plan.\n  Predicting the evolution of a given train's delay is a uniquely hard problem,\ndistinct from mainstream road traffic forecasting problems, since it involves\nseveral hard-to-model phenomena: train spacing, station congestion and\nheterogeneous rolling stock among others. We first offer empirical evidence of\nthe previously unexplored phenomenon of delay propagation at the scale of a\nrailway network, leading to delays being amplified by interactions between\ntrains and the network's physical limitations.\n  We then contribute a novel technique using the transformer architecture and\npre-trained embeddings to make real-time massively parallel predictions for\ntrain delays at the scale of the whole rail network (over 3000 trains at peak\nhours, making predictions at an average horizon of 70 minutes). Our approach\nyields very positive results on real-world data when compared to currently-used\nand experimental prediction techniques.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2021-05-18T13:43:18Z",
+    "updated": "2023-12-21T01:23:26Z"
+  },
+  {
+    "arxiv_id": "2205.09869v1",
+    "title": "Transformer with Memory Replay",
+    "authors": [
+      "Rui Liu",
+      "Barzan Mozafari"
+    ],
+    "abstract": "Transformers achieve state-of-the-art performance for natural language\nprocessing tasks by pre-training on large-scale text corpora. They are\nextremely compute-intensive and have very high sample complexity. Memory replay\nis a mechanism that remembers and reuses past examples by saving to and\nreplaying from a memory buffer. It has been successfully used in reinforcement\nlearning and GANs due to better sample efficiency. In this paper, we propose\n\\emph{Transformer with Memory Replay} (TMR), which integrates memory replay\nwith transformer, making transformer more sample-efficient. Experiments on GLUE\nand SQuAD benchmark datasets show that Transformer with Memory Replay achieves\nat least $1\\%$ point increase compared to the baseline transformer model when\npretrained with the same number of examples. Further, by adopting a careful\ndesign that reduces the wall-clock time overhead of memory replay, we also\nempirically achieve a better runtime efficiency.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2022-05-19T21:27:36Z",
+    "updated": "2022-05-19T21:27:36Z"
+  }
+]

@@ -1,0 +1,625 @@
+{
+  "query": "cat:cs.LG AND ti:transformer AND submittedDate:[2020 TO 2025]",
+  "generated_at_utc": "2025-09-15T22:42:23Z",
+  "total_papers": 5,
+  "papers": [
+    {
+      "arxiv_id": "2307.01189v2",
+      "word_frequency": {
+        "total_word_count": 214,
+        "unique_word_count": 133,
+        "top_20_terms": [
+          [
+            "a",
+            7
+          ],
+          [
+            "to",
+            7
+          ],
+          [
+            "and",
+            6
+          ],
+          [
+            "in",
+            6
+          ],
+          [
+            "models",
+            6
+          ],
+          [
+            "of",
+            6
+          ],
+          [
+            "tint",
+            6
+          ],
+          [
+            "transformer",
+            5
+          ],
+          [
+            "fine",
+            4
+          ],
+          [
+            "language",
+            4
+          ],
+          [
+            "model",
+            4
+          ],
+          [
+            "we",
+            4
+          ],
+          [
+            "for",
+            3
+          ],
+          [
+            "internal",
+            3
+          ],
+          [
+            "large",
+            3
+          ],
+          [
+            "pre",
+            3
+          ],
+          [
+            "that",
+            3
+          ],
+          [
+            "the",
+            3
+          ],
+          [
+            "trained",
+            3
+          ],
+          [
+            "an",
+            2
+          ]
+        ],
+        "avg_word_length": 5.537
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 13,
+        "avg_words_per_sentence": 16.462,
+        "longest_sentence_words": 32,
+        "shortest_sentence_words": 1
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "For",
+          "However",
+          "ICL",
+          "In",
+          "MLP",
+          "OPT-125M",
+          "Recent",
+          "These",
+          "TinT",
+          "To",
+          "Transformer",
+          "We"
+        ],
+        "numeric_terms": [
+          "125",
+          "2",
+          "2-layer",
+          "4-16",
+          "OPT-125M"
+        ],
+        "hyphenated_terms": [
+          "2-layer",
+          "4-16",
+          "OPT-125M",
+          "end-to-end",
+          "fine-tune",
+          "fine-tuning",
+          "in-context",
+          "one-step",
+          "pre-trained"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "2404.12362v1",
+      "word_frequency": {
+        "total_word_count": 122,
+        "unique_word_count": 87,
+        "top_20_terms": [
+          [
+            "and",
+            10
+          ],
+          [
+            "attention",
+            4
+          ],
+          [
+            "for",
+            4
+          ],
+          [
+            "of",
+            3
+          ],
+          [
+            "the",
+            3
+          ],
+          [
+            "transformer",
+            3
+          ],
+          [
+            "a",
+            2
+          ],
+          [
+            "are",
+            2
+          ],
+          [
+            "arxiv",
+            2
+          ],
+          [
+            "gqa",
+            2
+          ],
+          [
+            "its",
+            2
+          ],
+          [
+            "mistral",
+            2
+          ],
+          [
+            "mqa",
+            2
+          ],
+          [
+            "multi",
+            2
+          ],
+          [
+            "p",
+            2
+          ],
+          [
+            "query",
+            2
+          ],
+          [
+            "skipless",
+            2
+          ],
+          [
+            "this",
+            2
+          ],
+          [
+            "tricks",
+            2
+          ],
+          [
+            "weights",
+            2
+          ]
+        ],
+        "avg_word_length": 5.041
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 9,
+        "avg_words_per_sentence": 13.556,
+        "longest_sentence_words": 26,
+        "shortest_sentence_words": 2
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "For",
+          "GQA",
+          "Gemma",
+          "He",
+          "Hofmann",
+          "However",
+          "LLMs",
+          "Llama",
+          "MHA",
+          "MQA",
+          "Mistral",
+          "Mistral-7B",
+          "Mixtral",
+          "OpenMachine-ai",
+          "P",
+          "PaLM",
+          "Q",
+          "See",
+          "The",
+          "Therefore",
+          "V",
+          "arXiv"
+        ],
+        "numeric_terms": [
+          "01906",
+          "13388",
+          "15",
+          "2",
+          "2311",
+          "2402",
+          "Mistral-7B"
+        ],
+        "hyphenated_terms": [
+          "Mistral-7B",
+          "OpenMachine-ai",
+          "grouped-query",
+          "micro-paper",
+          "multi-head",
+          "multi-query",
+          "post-attention",
+          "transformer-tricks"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "2010.14816v1",
+      "word_frequency": {
+        "total_word_count": 47,
+        "unique_word_count": 36,
+        "top_20_terms": [
+          [
+            "the",
+            5
+          ],
+          [
+            "a",
+            2
+          ],
+          [
+            "al",
+            2
+          ],
+          [
+            "et",
+            2
+          ],
+          [
+            "from",
+            2
+          ],
+          [
+            "linear",
+            2
+          ],
+          [
+            "of",
+            2
+          ],
+          [
+            "that",
+            2
+          ],
+          [
+            "and",
+            1
+          ],
+          [
+            "approximation",
+            1
+          ],
+          [
+            "article",
+            1
+          ],
+          [
+            "attention",
+            1
+          ],
+          [
+            "complexity",
+            1
+          ],
+          [
+            "extended",
+            1
+          ],
+          [
+            "following",
+            1
+          ],
+          [
+            "for",
+            1
+          ],
+          [
+            "idea",
+            1
+          ],
+          [
+            "is",
+            1
+          ],
+          [
+            "katharopoulos",
+            1
+          ],
+          [
+            "mechanism",
+            1
+          ]
+        ],
+        "avg_word_length": 4.915
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 3,
+        "avg_words_per_sentence": 15.667,
+        "longest_sentence_words": 25,
+        "shortest_sentence_words": 8
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Following",
+          "Katharopoulos",
+          "Shen"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": [
+          "re-used",
+          "second-order"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "2105.08526v2",
+      "word_frequency": {
+        "total_word_count": 199,
+        "unique_word_count": 132,
+        "top_20_terms": [
+          [
+            "of",
+            9
+          ],
+          [
+            "the",
+            9
+          ],
+          [
+            "and",
+            6
+          ],
+          [
+            "at",
+            6
+          ],
+          [
+            "a",
+            5
+          ],
+          [
+            "to",
+            5
+          ],
+          [
+            "rail",
+            4
+          ],
+          [
+            "time",
+            4
+          ],
+          [
+            "trains",
+            4
+          ],
+          [
+            "delays",
+            3
+          ],
+          [
+            "in",
+            3
+          ],
+          [
+            "network",
+            3
+          ],
+          [
+            "on",
+            3
+          ],
+          [
+            "predictions",
+            3
+          ],
+          [
+            "real",
+            3
+          ],
+          [
+            "scale",
+            3
+          ],
+          [
+            "we",
+            3
+          ],
+          [
+            "an",
+            2
+          ],
+          [
+            "by",
+            2
+          ],
+          [
+            "delay",
+            2
+          ]
+        ],
+        "avg_word_length": 5.618
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 6,
+        "avg_words_per_sentence": 33.167,
+        "longest_sentence_words": 45,
+        "shortest_sentence_words": 19
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Our",
+          "Predicting",
+          "Robust",
+          "We"
+        ],
+        "numeric_terms": [
+          "3000",
+          "70"
+        ],
+        "hyphenated_terms": [
+          "currently-used",
+          "hard-to-model",
+          "pre-trained",
+          "real-time",
+          "real-world"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "2205.09869v1",
+      "word_frequency": {
+        "total_word_count": 144,
+        "unique_word_count": 101,
+        "top_20_terms": [
+          [
+            "memory",
+            6
+          ],
+          [
+            "and",
+            5
+          ],
+          [
+            "replay",
+            5
+          ],
+          [
+            "transformer",
+            5
+          ],
+          [
+            "a",
+            4
+          ],
+          [
+            "the",
+            4
+          ],
+          [
+            "with",
+            4
+          ],
+          [
+            "by",
+            3
+          ],
+          [
+            "of",
+            3
+          ],
+          [
+            "sample",
+            3
+          ],
+          [
+            "that",
+            3
+          ],
+          [
+            "to",
+            3
+          ],
+          [
+            "achieve",
+            2
+          ],
+          [
+            "better",
+            2
+          ],
+          [
+            "efficiency",
+            2
+          ],
+          [
+            "examples",
+            2
+          ],
+          [
+            "in",
+            2
+          ],
+          [
+            "on",
+            2
+          ],
+          [
+            "we",
+            2
+          ],
+          [
+            "achieves",
+            1
+          ]
+        ],
+        "avg_word_length": 5.535
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 7,
+        "avg_words_per_sentence": 20.571,
+        "longest_sentence_words": 32,
+        "shortest_sentence_words": 11
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Experiments",
+          "Further",
+          "GANs",
+          "GLUE",
+          "In",
+          "It",
+          "Memory",
+          "Replay",
+          "SQuAD",
+          "TMR",
+          "They",
+          "Transformer",
+          "Transformers"
+        ],
+        "numeric_terms": [
+          "1"
+        ],
+        "hyphenated_terms": [
+          "compute-intensive",
+          "large-scale",
+          "pre-training",
+          "sample-efficient",
+          "state-of-the-art",
+          "wall-clock"
+        ]
+      }
+    }
+  ]
+}

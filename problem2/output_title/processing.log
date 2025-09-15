@@ -1,0 +1,26 @@
+[2025-09-15T22:41:15Z] Starting ArXiv query: ti:transformer
+[2025-09-15T22:41:16Z] Fetched 10 results from ArXiv API
+[2025-09-15T22:41:16Z] Processing paper: 2103.00112v3
+[2025-09-15T22:41:16Z] Processing paper: 2307.01189v2
+[2025-09-15T22:41:16Z] Processing paper: 9801033v2
+[2025-09-15T22:41:16Z] Processing paper: 0409265v1
+[2025-09-15T22:41:16Z] Processing paper: 1011.3947v2
+[2025-09-15T22:41:16Z] Processing paper: 1103.0156v5
+[2025-09-15T22:41:16Z] Processing paper: 1406.6512v1
+[2025-09-15T22:41:16Z] Processing paper: 1510.05025v1
+[2025-09-15T22:41:16Z] Processing paper: 1512.00795v2
+[2025-09-15T22:41:16Z] Processing paper: 1608.03898v1
+[2025-09-15T22:41:16Z] Completed processing: 10 papers in [0.32] seconds
+[2025-09-15T22:42:23Z] Starting ArXiv query: ti:transformer
+[2025-09-15T22:42:23Z] Fetched 10 results from ArXiv API
+[2025-09-15T22:42:23Z] Processing paper: 2103.00112v3
+[2025-09-15T22:42:23Z] Processing paper: 2307.01189v2
+[2025-09-15T22:42:23Z] Processing paper: 9801033v2
+[2025-09-15T22:42:23Z] Processing paper: 0409265v1
+[2025-09-15T22:42:23Z] Processing paper: 1011.3947v2
+[2025-09-15T22:42:23Z] Processing paper: 1103.0156v5
+[2025-09-15T22:42:23Z] Processing paper: 1406.6512v1
+[2025-09-15T22:42:23Z] Processing paper: 1510.05025v1
+[2025-09-15T22:42:23Z] Processing paper: 1512.00795v2
+[2025-09-15T22:42:23Z] Processing paper: 1608.03898v1
+[2025-09-15T22:42:23Z] Completed processing: 10 papers in [0.05] seconds

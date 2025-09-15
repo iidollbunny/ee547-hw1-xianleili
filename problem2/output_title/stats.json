@@ -1,0 +1,1117 @@
+{
+  "query": "ti:transformer",
+  "generated_at_utc": "2025-09-15T22:42:23Z",
+  "total_papers": 10,
+  "papers": [
+    {
+      "arxiv_id": "2103.00112v3",
+      "word_frequency": {
+        "total_word_count": 239,
+        "unique_word_count": 136,
+        "top_20_terms": [
+          [
+            "the",
+            18
+          ],
+          [
+            "of",
+            9
+          ],
+          [
+            "and",
+            8
+          ],
+          [
+            "visual",
+            6
+          ],
+          [
+            "is",
+            5
+          ],
+          [
+            "with",
+            5
+          ],
+          [
+            "in",
+            4
+          ],
+          [
+            "patches",
+            4
+          ],
+          [
+            "transformer",
+            4
+          ],
+          [
+            "we",
+            4
+          ],
+          [
+            "architecture",
+            3
+          ],
+          [
+            "as",
+            3
+          ],
+          [
+            "attention",
+            3
+          ],
+          [
+            "e",
+            3
+          ],
+          [
+            "features",
+            3
+          ],
+          [
+            "g",
+            3
+          ],
+          [
+            "local",
+            3
+          ],
+          [
+            "tnt",
+            3
+          ],
+          [
+            "words",
+            3
+          ],
+          [
+            "a",
+            2
+          ]
+        ],
+        "avg_word_length": 5.335
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 19,
+        "avg_words_per_sentence": 12.579,
+        "longest_sentence_words": 34,
+        "shortest_sentence_words": 1
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Basically",
+          "CV-Backbones",
+          "Experiments",
+          "Features",
+          "ImageNet",
+          "In",
+          "MindSpore",
+          "PyTorch",
+          "Since",
+          "Specifically",
+          "TNT",
+          "The",
+          "Transformer",
+          "iN"
+        ],
+        "numeric_terms": [
+          "1",
+          "16",
+          "4",
+          "5",
+          "7",
+          "81",
+          "top-1"
+        ],
+        "hyphenated_terms": [
+          "CV-Backbones",
+          "huawei-noah",
+          "state-of-the-art",
+          "top-1"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "2307.01189v2",
+      "word_frequency": {
+        "total_word_count": 214,
+        "unique_word_count": 133,
+        "top_20_terms": [
+          [
+            "a",
+            7
+          ],
+          [
+            "to",
+            7
+          ],
+          [
+            "and",
+            6
+          ],
+          [
+            "in",
+            6
+          ],
+          [
+            "models",
+            6
+          ],
+          [
+            "of",
+            6
+          ],
+          [
+            "tint",
+            6
+          ],
+          [
+            "transformer",
+            5
+          ],
+          [
+            "fine",
+            4
+          ],
+          [
+            "language",
+            4
+          ],
+          [
+            "model",
+            4
+          ],
+          [
+            "we",
+            4
+          ],
+          [
+            "for",
+            3
+          ],
+          [
+            "internal",
+            3
+          ],
+          [
+            "large",
+            3
+          ],
+          [
+            "pre",
+            3
+          ],
+          [
+            "that",
+            3
+          ],
+          [
+            "the",
+            3
+          ],
+          [
+            "trained",
+            3
+          ],
+          [
+            "an",
+            2
+          ]
+        ],
+        "avg_word_length": 5.537
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 13,
+        "avg_words_per_sentence": 16.462,
+        "longest_sentence_words": 32,
+        "shortest_sentence_words": 1
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "For",
+          "However",
+          "ICL",
+          "In",
+          "MLP",
+          "OPT-125M",
+          "Recent",
+          "These",
+          "TinT",
+          "To",
+          "Transformer",
+          "We"
+        ],
+        "numeric_terms": [
+          "125",
+          "2",
+          "2-layer",
+          "4-16",
+          "OPT-125M"
+        ],
+        "hyphenated_terms": [
+          "2-layer",
+          "4-16",
+          "OPT-125M",
+          "end-to-end",
+          "fine-tune",
+          "fine-tuning",
+          "in-context",
+          "one-step",
+          "pre-trained"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "9801033v2",
+      "word_frequency": {
+        "total_word_count": 83,
+        "unique_word_count": 61,
+        "top_20_terms": [
+          [
+            "the",
+            6
+          ],
+          [
+            "quantum",
+            4
+          ],
+          [
+            "q",
+            3
+          ],
+          [
+            "that",
+            3
+          ],
+          [
+            "with",
+            3
+          ],
+          [
+            "beta",
+            2
+          ],
+          [
+            "classical",
+            2
+          ],
+          [
+            "d",
+            2
+          ],
+          [
+            "geometry",
+            2
+          ],
+          [
+            "hat",
+            2
+          ],
+          [
+            "in",
+            2
+          ],
+          [
+            "partial",
+            2
+          ],
+          [
+            "to",
+            2
+          ],
+          [
+            "a",
+            1
+          ],
+          [
+            "agreement",
+            1
+          ],
+          [
+            "and",
+            1
+          ],
+          [
+            "arising",
+            1
+          ],
+          [
+            "be",
+            1
+          ],
+          [
+            "bohmian",
+            1
+          ],
+          [
+            "by",
+            1
+          ]
+        ],
+        "avg_word_length": 5.47
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 3,
+        "avg_words_per_sentence": 27.667,
+        "longest_sentence_words": 37,
+        "shortest_sentence_words": 21
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "1D",
+          "Bohmian",
+          "Hamilton-Jacobi",
+          "In",
+          "The",
+          "V-E",
+          "We"
+        ],
+        "numeric_terms": [
+          "1-",
+          "1D",
+          "2"
+        ],
+        "hyphenated_terms": [
+          "1-",
+          "Hamilton-Jacobi",
+          "V-E",
+          "non-relativistic"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "0409265v1",
+      "word_frequency": {
+        "total_word_count": 19,
+        "unique_word_count": 15,
+        "top_20_terms": [
+          [
+            "digroup",
+            3
+          ],
+          [
+            "a",
+            2
+          ],
+          [
+            "transformation",
+            2
+          ],
+          [
+            "and",
+            1
+          ],
+          [
+            "every",
+            1
+          ],
+          [
+            "introduce",
+            1
+          ],
+          [
+            "is",
+            1
+          ],
+          [
+            "isomorphic",
+            1
+          ],
+          [
+            "notion",
+            1
+          ],
+          [
+            "of",
+            1
+          ],
+          [
+            "prove",
+            1
+          ],
+          [
+            "that",
+            1
+          ],
+          [
+            "the",
+            1
+          ],
+          [
+            "to",
+            1
+          ],
+          [
+            "we",
+            1
+          ]
+        ],
+        "avg_word_length": 5.474
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 1,
+        "avg_words_per_sentence": 19.0,
+        "longest_sentence_words": 19,
+        "shortest_sentence_words": 19
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "We"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": []
+      }
+    },
+    {
+      "arxiv_id": "1011.3947v2",
+      "word_frequency": {
+        "total_word_count": 100,
+        "unique_word_count": 69,
+        "top_20_terms": [
+          [
+            "group",
+            4
+          ],
+          [
+            "the",
+            4
+          ],
+          [
+            "calculus",
+            3
+          ],
+          [
+            "covariant",
+            3
+          ],
+          [
+            "functional",
+            3
+          ],
+          [
+            "of",
+            3
+          ],
+          [
+            "transform",
+            3
+          ],
+          [
+            "wavelets",
+            3
+          ],
+          [
+            "which",
+            3
+          ],
+          [
+            "are",
+            2
+          ],
+          [
+            "coherent",
+            2
+          ],
+          [
+            "construction",
+            2
+          ],
+          [
+            "function",
+            2
+          ],
+          [
+            "hardy",
+            2
+          ],
+          [
+            "many",
+            2
+          ],
+          [
+            "not",
+            2
+          ],
+          [
+            "or",
+            2
+          ],
+          [
+            "representations",
+            2
+          ],
+          [
+            "space",
+            2
+          ],
+          [
+            "states",
+            2
+          ]
+        ],
+        "avg_word_length": 6.3
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 4,
+        "avg_words_per_sentence": 25.0,
+        "longest_sentence_words": 32,
+        "shortest_sentence_words": 14
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Banach",
+          "Berezin",
+          "Covariant",
+          "H",
+          "Hardy",
+          "It",
+          "Keywords",
+          "Littlewood-Paley",
+          "Moebius",
+          "Radon",
+          "The",
+          "Wavelets"
+        ],
+        "numeric_terms": [
+          "2"
+        ],
+        "hyphenated_terms": [
+          "Littlewood-Paley"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "1103.0156v5",
+      "word_frequency": {
+        "total_word_count": 306,
+        "unique_word_count": 146,
+        "top_20_terms": [
+          [
+            "the",
+            34
+          ],
+          [
+            "of",
+            15
+          ],
+          [
+            "for",
+            12
+          ],
+          [
+            "and",
+            10
+          ],
+          [
+            "v",
+            10
+          ],
+          [
+            "is",
+            8
+          ],
+          [
+            "to",
+            7
+          ],
+          [
+            "a",
+            6
+          ],
+          [
+            "that",
+            6
+          ],
+          [
+            "an",
+            5
+          ],
+          [
+            "as",
+            5
+          ],
+          [
+            "rotation",
+            5
+          ],
+          [
+            "with",
+            5
+          ],
+          [
+            "be",
+            4
+          ],
+          [
+            "in",
+            4
+          ],
+          [
+            "are",
+            3
+          ],
+          [
+            "boost",
+            3
+          ],
+          [
+            "can",
+            3
+          ],
+          [
+            "expression",
+            3
+          ],
+          [
+            "generators",
+            3
+          ]
+        ],
+        "avg_word_length": 4.915
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 8,
+        "avg_words_per_sentence": 38.25,
+        "longest_sentence_words": 61,
+        "shortest_sentence_words": 16
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "A",
+          "For",
+          "G",
+          "GM",
+          "GV",
+          "If",
+          "Lorentz",
+          "M",
+          "Maxwell",
+          "The",
+          "This",
+          "V",
+          "Weyl"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": []
+      }
+    },
+    {
+      "arxiv_id": "1406.6512v1",
+      "word_frequency": {
+        "total_word_count": 69,
+        "unique_word_count": 53,
+        "top_20_terms": [
+          [
+            "magnets",
+            6
+          ],
+          [
+            "and",
+            3
+          ],
+          [
+            "by",
+            2
+          ],
+          [
+            "coordinate",
+            2
+          ],
+          [
+            "dc",
+            2
+          ],
+          [
+            "magnetic",
+            2
+          ],
+          [
+            "of",
+            2
+          ],
+          [
+            "the",
+            2
+          ],
+          [
+            "to",
+            2
+          ],
+          [
+            "transformation",
+            2
+          ],
+          [
+            "transformations",
+            2
+          ],
+          [
+            "a",
+            1
+          ],
+          [
+            "are",
+            1
+          ],
+          [
+            "based",
+            1
+          ],
+          [
+            "can",
+            1
+          ],
+          [
+            "cancelling",
+            1
+          ],
+          [
+            "controlling",
+            1
+          ],
+          [
+            "created",
+            1
+          ],
+          [
+            "design",
+            1
+          ],
+          [
+            "designed",
+            1
+          ]
+        ],
+        "avg_word_length": 6.058
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 5,
+        "avg_words_per_sentence": 13.8,
+        "longest_sentence_words": 29,
+        "shortest_sentence_words": 1
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Based",
+          "DC",
+          "Maxwell",
+          "Our",
+          "Some"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": [
+          "form-invariant",
+          "magneto-statics"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "1510.05025v1",
+      "word_frequency": {
+        "total_word_count": 44,
+        "unique_word_count": 32,
+        "top_20_terms": [
+          [
+            "a",
+            4
+          ],
+          [
+            "surface",
+            3
+          ],
+          [
+            "bundles",
+            2
+          ],
+          [
+            "correspondence",
+            2
+          ],
+          [
+            "of",
+            2
+          ],
+          [
+            "over",
+            2
+          ],
+          [
+            "rational",
+            2
+          ],
+          [
+            "that",
+            2
+          ],
+          [
+            "to",
+            2
+          ],
+          [
+            "and",
+            1
+          ],
+          [
+            "beautiful",
+            1
+          ],
+          [
+            "between",
+            1
+          ],
+          [
+            "by",
+            1
+          ],
+          [
+            "configurations",
+            1
+          ],
+          [
+            "data",
+            1
+          ],
+          [
+            "extend",
+            1
+          ],
+          [
+            "families",
+            1
+          ],
+          [
+            "fibration",
+            1
+          ],
+          [
+            "fourier",
+            1
+          ],
+          [
+            "generalized",
+            1
+          ]
+        ],
+        "avg_word_length": 5.75
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 2,
+        "avg_words_per_sentence": 22.0,
+        "longest_sentence_words": 25,
+        "shortest_sentence_words": 19
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "Fourier-Mukai",
+          "There",
+          "We"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": [
+          "Fourier-Mukai"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "1512.00795v2",
+      "word_frequency": {
+        "total_word_count": 134,
+        "unique_word_count": 88,
+        "top_20_terms": [
+          [
+            "action",
+            9
+          ],
+          [
+            "the",
+            9
+          ],
+          [
+            "a",
+            5
+          ],
+          [
+            "an",
+            4
+          ],
+          [
+            "on",
+            4
+          ],
+          [
+            "we",
+            4
+          ],
+          [
+            "of",
+            3
+          ],
+          [
+            "our",
+            3
+          ],
+          [
+            "to",
+            3
+          ],
+          [
+            "transformation",
+            3
+          ],
+          [
+            "and",
+            2
+          ],
+          [
+            "as",
+            2
+          ],
+          [
+            "by",
+            2
+          ],
+          [
+            "environment",
+            2
+          ],
+          [
+            "in",
+            2
+          ],
+          [
+            "representation",
+            2
+          ],
+          [
+            "state",
+            2
+          ],
+          [
+            "that",
+            2
+          ],
+          [
+            "which",
+            2
+          ],
+          [
+            "able",
+            1
+          ]
+        ],
+        "avg_word_length": 5.343
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 6,
+        "avg_words_per_sentence": 22.333,
+        "longest_sentence_words": 36,
+        "shortest_sentence_words": 7
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "ACT",
+          "HMDB51",
+          "In",
+          "More",
+          "Motivated",
+          "Siamese",
+          "UCF101",
+          "We",
+          "What"
+        ],
+        "numeric_terms": [
+          "HMDB51",
+          "UCF101"
+        ],
+        "hyphenated_terms": [
+          "cross-category",
+          "high-level"
+        ]
+      }
+    },
+    {
+      "arxiv_id": "1608.03898v1",
+      "word_frequency": {
+        "total_word_count": 15,
+        "unique_word_count": 15,
+        "top_20_terms": [
+          [
+            "a",
+            1
+          ],
+          [
+            "based",
+            1
+          ],
+          [
+            "curvature",
+            1
+          ],
+          [
+            "into",
+            1
+          ],
+          [
+            "introduced",
+            1
+          ],
+          [
+            "is",
+            1
+          ],
+          [
+            "mean",
+            1
+          ],
+          [
+            "morphs",
+            1
+          ],
+          [
+            "on",
+            1
+          ],
+          [
+            "round",
+            1
+          ],
+          [
+            "spheres",
+            1
+          ],
+          [
+            "surfaces",
+            1
+          ],
+          [
+            "transformation",
+            1
+          ],
+          [
+            "triangulated",
+            1
+          ],
+          [
+            "which",
+            1
+          ]
+        ],
+        "avg_word_length": 6.267
+      },
+      "sentence_analysis": {
+        "total_sentence_count": 1,
+        "avg_words_per_sentence": 15.0,
+        "longest_sentence_words": 15,
+        "shortest_sentence_words": 15
+      },
+      "technical_terms": {
+        "uppercase_terms": [
+          "A"
+        ],
+        "numeric_terms": [],
+        "hyphenated_terms": []
+      }
+    }
+  ]
+}
